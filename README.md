@@ -1,6 +1,6 @@
 #  AI Text  Detection
 
-**Devansh Kantesaria (2022112003)**  
+**Akshat Tiwari (2022102043)**  
 *IIIT Hyderabad*
 
 ---
